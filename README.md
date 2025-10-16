@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+add the db url in .env for connecting db
+
+
 First, run the development server:
 
 ```bash
